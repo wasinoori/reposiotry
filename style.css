@@ -6,21 +6,30 @@
 }
 
 body{
-    background-color: red;
+    background-color: #a3a3a3;
     color: #fff;
     text-align: center;
     font-family: sans-serif;
     padding-top: 100px;
+    text-align: center;
 
 }
 
 h1{
     font-size: 50px;
     margin-bottom: 20px;
+    padding: 25px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 20px;
+    display: inline-block;
 
 }
 
 p{
+    margin: 0 auto;
     margin-bottom: 20px;
-    
+    width: 720px;
+    text-align: center;
+ 
 }
